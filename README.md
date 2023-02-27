@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prajapatianu433@gmail.com**
 
-- ⚡ Fun fact **✨Can draw your face more perfectly 😉✨**
+- ⚡ Fun fact **✨Can draw your face with more perfection 😉✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
