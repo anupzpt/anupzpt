@@ -4,6 +4,9 @@
 <h3 align="center">Solving every problem through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
+
+![Profile views](https://gpvc.arturio.dev/anupzpt)  
+
 - 🔭 I’m currently working on ** laravel project.**
 
 - 🌱 I’m currently learning **laravel and php.**
@@ -26,7 +29,6 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/anupzpt)  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupzpt&show_icons=true&locale=en" alt="anupzpt" /></p>
 
