@@ -26,7 +26,7 @@
 
 
 
-<h3>![Profile views](https://gpvc.arturio.dev/anupzpt)  </h3>
+![Profile views](https://gpvc.arturio.dev/anupzpt)  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupzpt&show_icons=true&locale=en" alt="anupzpt" /></p>
 
