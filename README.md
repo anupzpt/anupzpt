@@ -28,3 +28,5 @@
 
 <p><img align="=center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupzpt&show_icons=true&locale=en&layout=compact" alt="anupzpt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupzpt&show_icons=true&locale=en" alt="anupzpt" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anupzpt)](https://git.io/streak-stats)
