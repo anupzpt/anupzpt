@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupzpt&label=Profile%20views&color=0e75b6&style=flat" alt="anupzpt" /> </p>
 
-- 🔭 I’m currently working on ** laravel project.**
+- 🔭 I’m currently working on ** laravel project .**
 
 - 🌱 I’m currently learning **laravel and Java .**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript .**
 
 - 📫 How to reach me **prajapatianu433@gmail.com**
 
-- ⚡ Fun fact **✨Can draw your face with more perfection 😉✨**
+- ⚡ Fun fact ** ✨Can draw your face with more perfection 😉✨ **
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
