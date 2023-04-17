@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **laravel and Java .**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript .**
+- 💬 Ask me about **HTML5, CSS3, JavaScript.**
 
 - 📫 How to reach me **prajapatianu433@gmail.com**
 
 - ⚡ Fun fact ** ✨Can draw your face with more perfection 😉✨ **
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left"> Connect with me :</h3>
 <p align="left">
 <a href="https://fb.com/anu.prajapati.1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anu.prajapati.1806" height="30" width="40" /></a>
 <a href="https://instagram.com/anu_pzpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu_pzpt" height="30" width="40" /></a>
