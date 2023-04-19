@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupzpt&label=Profile%20views&color=0e75b6&style=flat" alt="anupzpt" /> </p>
 
-- 🔭 I’m currently working on ** laravel project .**
+- 🔭 I’m currently working on ** laravel project & java .**
 
 - 🌱 I’m currently learning **laravel and Java .**
 
