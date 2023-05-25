@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **laravel and Java .**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript.**
+- 💬 Ask me about **HTML5, CSS3, JavaScript ,Java .**
 
-- 📫 How to reach me **prajapatianu433@gmail.com**
+- 📫 How to reach me **anupzpt433@gmail.com**
 
 - ⚡ Fun fact ** ✨Can draw your face with more perfection 😉✨ **
 
