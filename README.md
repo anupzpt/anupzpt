@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupzpt&label=Profile%20views&color=0e75b6&style=flat" alt="anupzpt" /> </p>
 
-- 🔭 I’m currently working on ** Java project .**
+- 🔭 I’m currently working on ** Dot Net project .**
 
-- 🌱 I’m currently learning ** Java and .net .**
+- 🌱 I’m currently learning ** Flutter and .net .**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript ,Java .**
 
