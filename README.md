@@ -9,15 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupzpt&label=Profile%20views&color=brightgreen&style=flat" alt="anupzpt" /> </p>
 
-- 🔭 I’m currently working on ** Dot Net project .**
+- 🔭 I’m currently working on Dot Net project .😎
 
-- 🌱 I’m currently learning ** Flutter and .net .**
-
-- 💬 Ask me about **HTML5, CSS3, JavaScript ,Java .**
+- 🌱 Trying to become Fullstack Developer ❤
 
 - 📫 How to reach me **anupzpt433@gmail.com**
 
-- ⚡ Fun fact ** ✨Can draw your face with more perfection 😉✨ **
+- ⚡ Fun fact: The first rule of coding: if it compiles, ship it. 🚢🤖
 
 <h3 align="left"> Connect with me :</h3>
 <p align="left">
