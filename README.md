@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Dot Net project .😎
 
-- 🌱 Trying to become Fullstack Developer ❤
+- 🌱 Trying to become Fullstack Developer 🖤
 
 - 📫 How to reach me **anupzpt433@gmail.com**
 
